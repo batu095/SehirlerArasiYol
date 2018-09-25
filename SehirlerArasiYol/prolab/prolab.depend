@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1489607406 source:c:\users\erol\desktop\prolab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<process.h>
+	<conio.h>
+	<locale.h>
+
+1489647001 source:d:\users\erolp\desktop\prolab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<process.h>
+	<conio.h>
+	<locale.h>
+
